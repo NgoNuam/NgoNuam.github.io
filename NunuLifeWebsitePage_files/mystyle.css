@@ -1,0 +1,14 @@
+body{
+  color: white;
+}
+h1{
+  color: white;
+  text-align: center;
+  text-decoration: inherit;
+}
+html{
+  background-color: black
+}
+.box-8 {
+  border: 5px ridge white;
+}
